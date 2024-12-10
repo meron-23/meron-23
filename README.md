@@ -16,11 +16,6 @@ In this space, you can expect to find:
 - **Building**: Working on my first few data science projects, which will be shared here soon.
 - **Collaborating**: Open to collaborating on interesting data science projects. Feel free to reach out!
 
-## 💻 Projects (Coming Soon)
-1. **[Project Title 1]**: A brief description of what this project will be about.
-2. **[Project Title 2]**: Another project idea that will be added in the future.
-3. **[Project Title 3]**: Yet another exciting project in the pipeline.
-
 ## 📫 Get in Touch
 - **Email**: meronmuluye75@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/meronmuluye
